@@ -42,6 +42,14 @@
             "calc",
             "calc.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "strings",
+            "strings.json"
+          ]
         }
       ],
       "configxml": null,

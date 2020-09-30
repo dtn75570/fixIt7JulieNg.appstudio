@@ -17,7 +17,6 @@ Bob
 */ 
 
 names = ['Bob', 'Janet', 'Tom', 'Bob', 'Randy', 'Elizabeth', 'Kim', 'Nancy']
-i = 0
-for (i = 0; i < names.length; i++){
-    console.log(names[i])
+for (i = 1; i <= names.length ; i++){
+    console.log(names[names.length -i])
 }

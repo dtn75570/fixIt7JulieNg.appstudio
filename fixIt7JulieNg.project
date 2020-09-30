@@ -26,6 +26,14 @@
             "WhileAB",
             "WhileAB.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "forAB",
+            "forAB.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "WhileAB",
+      "firstform": "forAB",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
